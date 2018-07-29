@@ -1,1 +1,1 @@
-# Blog-using-Django-framework
+# Blog-using-Django-framework with mysql database
